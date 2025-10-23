@@ -26,7 +26,7 @@ const ttror = {
     
     linguagens: {
         frontend: ["JavaScript", "HTML5", "CSS3", "React", "Svelte"],
-        backend: ["Node.js", "Python"],
+        backend: ["Node.js", "Python", "PHP"],
         desktop: ["C#", ".NET", "WPF"],
         sistemas: ["C"]
     },
@@ -35,18 +35,18 @@ const ttror = {
         "HealthTech (Transcrição Médica, Psiquiatria)",
         "Desenvolvimento Web Full Stack",
         "Aplicações Desktop (WPF/C#)",
-        "Sistemas de Gestão",
+        "Sistemas de Gestão (Imobiliária, ERP)",
         "Automação e Ferramentas"
     ],
     
     projetos_destaque: {
         healthtech: ["medic-transcribe", "psiquiatria-dashboard"],
         desktop: ["PimWebDesktop", "WpfApp1"],
-        automacao: ["sistema-alertas-github"],
-        gestao: ["PimModulos (Hortifruti)"]
+        gestao: ["sistema-gestao-imobiliaria", "PimModulos"],
+        automacao: ["sistema-alertas-github"]
     },
     
-    atualmente_trabalhando: "Soluções inovadoras para HealthTech",
+    atualmente_trabalhando: "Soluções inovadoras para HealthTech e Gestão",
     fato_curioso: "Adoro transformar café em código que salva vidas! ☕💊"
 };
 ```
@@ -61,6 +61,7 @@ const ttror = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -79,6 +80,7 @@ const ttror = {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -103,9 +105,15 @@ Desenvolvimento de soluções tecnológicas para a área da saúde, com foco em 
 
 ### 💻 Desenvolvimento Full Stack
 
-Experiência completa em desenvolvimento web, desde o frontend com frameworks modernos (React, Svelte) até backend com Node.js e Python. Criação de aplicações web responsivas, APIs RESTful e sistemas de gestão.
+Experiência completa em desenvolvimento web, desde o frontend com frameworks modernos (React, Svelte) até backend com Node.js, PHP e Python. Criação de aplicações web responsivas, APIs RESTful e sistemas de gestão complexos.
 
-**Projetos:** 6+ projetos em JavaScript/Node.js, 6+ projetos em HTML/CSS
+**Projetos:** 6+ projetos em JavaScript/Node.js, 6+ projetos em HTML/CSS, sistemas PHP com arquitetura MVC
+
+### 🏢 Sistemas de Gestão
+
+Desenvolvimento de sistemas completos de gestão empresarial, incluindo **sistema de gestão imobiliária** com mais de 500 arquivos PHP, arquitetura MVC, geração de documentos (DOCX/PDF), sistema financeiro, auditoria e múltiplas integrações.
+
+**Tecnologias:** PHP, MySQL, JavaScript, PHPMailer, PHPWord, MVC Architecture
 
 ### 🖥️ Aplicações Desktop
 
@@ -136,27 +144,39 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 </div>
 
-### 🔒 Projetos Privados (Selecionados)
+### 🔒 Projetos Privados & Profissionais (Selecionados)
 
 **🏥 medic-transcribe-github** `JavaScript`
 - Sistema de transcrição médica automatizada
 - Processamento de áudio e conversão para texto
 - Interface intuitiva para profissionais de saúde
 
-**🧠 tranquilamente-psiquiatria-dashboard** `JavaScript` `MIT License`
+**🧠 tranquilamente-psiquiatria-dashboard** `JavaScript`
 - Dashboard completo para gestão de consultório de psiquiatria
 - Visualização de dados e métricas de atendimento
 - Sistema de agendamento e prontuários
 
-**🎨 tranquilamentedan** `Svelte` `MIT License`
+**🏢 Sistema de Gestão para Imobiliária** `PHP` `MySQL` `JavaScript`
+- Sistema completo com arquitetura MVC (500+ arquivos PHP)
+- Gestão de formulários, documentos e contratos
+- Geração automática de documentos DOCX e PDF
+- Sistema financeiro com cálculos automáticos
+- Upload e gestão de múltiplos anexos
+- Envio automatizado de emails (PHPMailer)
+- Sistema de auditoria e logs completo
+- Integração com APIs externas (CEP)
+- Painel administrativo robusto
+- Segurança avançada (CSRF, rate limiting, validações)
+
+**🎨 tranquilamentedan** `Svelte`
 - Aplicação web moderna desenvolvida em Svelte
 - Interface responsiva e performática
 
-**🐍 sistema-alertas-github** `Python` `MIT License`
+**🐍 sistema-alertas-github** `Python`
 - Sistema de monitoramento e alertas para repositórios GitHub
 - Automação de notificações e relatórios
 
-**🖥️ WpfApp1** `C#` `GPL`
+**🖥️ WpfApp1** `C#`
 - Aplicação desktop em WPF
 - Projeto acadêmico (Projeto Pim)
 - Interface moderna com MVVM pattern
@@ -177,7 +197,8 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 | Categoria | Quantidade | Tecnologias Principais |
 |-----------|------------|------------------------|
 | 🏥 **HealthTech** | 3 projetos | JavaScript, Node.js, Svelte |
-| 💻 **Web Full Stack** | 12+ projetos | HTML, CSS, JavaScript, React |
+| 💻 **Web Full Stack** | 12+ projetos | HTML, CSS, JavaScript, React, PHP |
+| 🏢 **Sistemas de Gestão** | 2 projetos | PHP/MySQL, C |
 | 🖥️ **Desktop Apps** | 2 projetos | C#, .NET, WPF |
 | 🔧 **Automação** | 1 projeto | Python, GitHub API |
 | 📚 **Sistemas (C)** | 3 projetos | C, Estruturas de Dados |
@@ -187,6 +208,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 ```text
 JavaScript/Node.js  ████████████████████░  95%
 HTML/CSS           ████████████████████░  95%
+PHP/MySQL          ████████████████████░  90%
 C#/.NET            ██████████████████░░░  85%
 React/Svelte       ████████████████░░░░░  75%
 Python             ███████████████░░░░░░  70%
