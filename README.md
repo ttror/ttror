@@ -17,7 +17,7 @@
 
 Sou um desenvolvedor full stack especializado em criar **soluções tecnológicas robustas e inovadoras** para diversos setores. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend.
 
-Atualmente, desenvolvo projetos voltados para **sistemas de gestão empresarial**, **transcrição médica**, **dashboards de psiquiatria** e **automação**, sempre buscando aplicar as melhores práticas e tecnologias mais adequadas para cada solução.
+Atualmente, desenvolvo projetos voltados para **sistemas de gestão empresarial**, **transcrição médica**, **dashboards de consultório médico** e **automação**, sempre buscando aplicar as melhores práticas e tecnologias mais adequadas para cada solução.
 
 ```javascript
 const ttror = {
