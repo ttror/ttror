@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 👨‍💻 Desenvolvedor Full Stack | 🏥 HealthTech Specialist | 🎯 Apaixonado por Tecnologia
+  ### 👨‍💻 Desenvolvedor Full Stack
   
   [![GitHub followers](https://img.shields.io/github/followers/ttror?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36&color=8be9fd)](https://github.com/ttror)
   [![Profile Views](https://komarev.com/ghpvc/?username=ttror&style=for-the-badge&color=blueviolet)](https://github.com/ttror)
@@ -88,16 +88,6 @@ const ttror = {
 ![Healthcare](https://img.shields.io/badge/Medical_Transcription-00C7B7?style=for-the-badge&logo=stethoscope&logoColor=white)
 ![Mental Health](https://img.shields.io/badge/Psychiatry_Systems-9B59B6?style=for-the-badge&logo=brain&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Health_Dashboards-E74C3C?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=ttror&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
