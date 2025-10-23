@@ -15,14 +15,14 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor full stack especializado em criar **soluções tecnológicas robustas e inovadoras** para diversos setores. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend.
+Sou um desenvolvedor full stack especializado em criar **soluções tecnológicas robustas e inovadoras** para diversos setores. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend e **inteligência artificial**.
 
-Atualmente, desenvolvo projetos voltados para **sistemas de gestão empresarial**, **transcrição médica**, **dashboards de consultório médico** e **automação**, sempre buscando aplicar as melhores práticas e tecnologias mais adequadas para cada solução.
+Atualmente, desenvolvo projetos voltados para **sistemas de gestão empresarial**, **agentes de IA para saúde**, **transcrição médica** e **automação**, sempre buscando aplicar as melhores práticas e tecnologias mais adequadas para cada solução.
 
 ```javascript
 const ttror = {
     localização: "Brasil 🇧🇷",
-    especialização: "Full Stack Developer & Software Architect",
+    especialização: "Full Stack Developer & AI Solutions Architect",
     
     linguagens: {
         frontend: ["JavaScript", "HTML5", "CSS3", "React", "Svelte"],
@@ -33,6 +33,7 @@ const ttror = {
     
     áreas_atuação: [
         "Sistemas de Gestão Empresarial (Imobiliária, ERP)",
+        "Agentes de IA e Assistentes Inteligentes",
         "Desenvolvimento Web Full Stack",
         "Aplicações Desktop (WPF/C#)",
         "HealthTech (Transcrição Médica, Psiquiatria)",
@@ -41,12 +42,13 @@ const ttror = {
     
     projetos_destaque: {
         gestao: ["sistema-gestao-imobiliaria", "PimModulos"],
+        ia: ["agente-ia-psiquiatria"],
         healthtech: ["medic-transcribe", "psiquiatria-dashboard"],
         desktop: ["PimWebDesktop", "WpfApp1"],
         automacao: ["sistema-alertas-github"]
     },
     
-    atualmente_trabalhando: "Soluções inovadoras para Gestão e Automação"
+    atualmente_trabalhando: "Soluções inovadoras com IA para Gestão e Saúde"
 };
 ```
 
@@ -86,9 +88,9 @@ const ttror = {
 
 ### 🚀 Especialização em Inovação
 
-![Business Management](https://img.shields.io/badge/Business_Management-FF6B6B?style=for-the-badge&logo=building&logoColor=white)
+![AI Solutions](https://img.shields.io/badge/AI_Solutions-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Business Management](https://img.shields.io/badge/Business_Management-4ECDC4?style=for-the-badge&logo=building&logoColor=white)
 ![Healthcare](https://img.shields.io/badge/Medical_Systems-00C7B7?style=for-the-badge&logo=stethoscope&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-9B59B6?style=for-the-badge&logo=robot&logoColor=white)
 
 </div>
 
@@ -98,7 +100,7 @@ const ttror = {
 
 ### 🏢 Sistemas de Gestão Empresarial ⭐
 
-Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque para um **sistema de gestão imobiliária** de grande porte com mais de 500 arquivos PHP, arquitetura MVC, geração automática de documentos (DOCX/PDF), sistema financeiro completo, auditoria detalhada e múltiplas integrações.
+Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque para um **sistema de gestão imobiliária** de grande porte com mais de 500 arquivos PHP, arquitetura MVC profissional, geração automática de documentos (DOCX/PDF), sistema financeiro completo, auditoria detalhada e múltiplas integrações.
 
 **Características do Sistema:**
 - Arquitetura MVC robusta com 500+ arquivos PHP
@@ -113,6 +115,25 @@ Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque p
 - Segurança avançada (CSRF, rate limiting, validações server/client)
 
 **Tecnologias:** PHP, MySQL, JavaScript, PHPMailer, PHPWord, MVC Architecture
+
+### 🤖 Inteligência Artificial & Agentes Inteligentes ⭐
+
+Desenvolvimento de **agentes de IA conversacionais** para aplicações médicas e empresariais, com integração de APIs de IA (OpenAI/Claude), processamento multimodal e pesquisa científica automatizada.
+
+**Projeto Destaque: Agente de IA para Psiquiatria**
+- Sistema completo com ~2.700 linhas de código
+- Integração com OpenAI API / Claude API
+- Processamento multimodal (texto, voz, PDF, Word, imagens)
+- Streaming de respostas em tempo real (SSE)
+- Integração com 3 APIs médicas (PubMed, ClinicalTrials, DailyMed)
+- Sistema de transcrição de voz (STT) com visualização
+- Upload e análise de documentos médicos
+- Pesquisa científica automática com citações
+- Interface moderna com Markdown e syntax highlighting
+- Arquitetura modular (10 módulos JavaScript)
+- Segurança robusta (rate limiting, sanitização XSS)
+
+**Tecnologias:** Node.js, Express, OpenAI API, Axios, Multer, Sharp, pdf-parse, Web Audio API, Marked.js, Prism.js
 
 ### 💻 Desenvolvimento Full Stack
 
@@ -157,9 +178,11 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 ### 🔒 Projetos Privados & Profissionais (Selecionados)
 
-### ⭐ **Sistema de Gestão para Imobiliária** `PHP` `MySQL` `JavaScript`
+---
 
-**Projeto Destaque** - Sistema empresarial completo desenvolvido com arquitetura profissional
+### ⭐ **1. Sistema de Gestão para Imobiliária** `PHP` `MySQL` `JavaScript`
+
+**Projeto Destaque #1** - Sistema empresarial completo desenvolvido com arquitetura profissional
 
 **Características Principais:**
 - 🏗️ **Arquitetura MVC** com mais de 500 arquivos PHP organizados
@@ -180,6 +203,40 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 - Frontend: JavaScript (24 arquivos), HTML5, CSS3
 - Bibliotecas: PHPMailer v6.x, PHPWord (PHPOffice)
 - Segurança: CSRF Protection, Rate Limiting, Input Validation
+
+---
+
+### ⭐ **2. Agente de IA para Psiquiatria** `Node.js` `OpenAI API` `JavaScript`
+
+**Projeto Destaque #2** - Assistente inteligente com IA para discussões médicas psiquiátricas
+
+**Características Principais:**
+- 🤖 **Integração com OpenAI/Claude API** para conversação avançada
+- 🎙️ **Transcrição de Voz** com Web Audio API e visualização em tempo real
+- 📄 **Processamento Multimodal** (PDF, Word, imagens, texto)
+- 🔬 **Pesquisa Científica Integrada** (PubMed, ClinicalTrials, DailyMed)
+- ⚡ **Streaming de Respostas** em tempo real (SSE)
+- 📚 **Citações Automáticas** de artigos científicos
+- 🖼️ **Análise de Imagens** com processamento via Sharp
+- 💬 **Interface Conversacional** moderna com Markdown
+- 🔐 **Segurança Avançada** (rate limiting, sanitização XSS, helmet)
+- 📊 **Sistema de Logs** estruturado com Pino
+- 🎨 **UI/UX Profissional** com typewriter effect e syntax highlighting
+
+**Stack Técnico:**
+- Backend: Node.js 18+, Express 4.21, Axios
+- IA: OpenAI API / Claude API
+- Processamento: Multer, Sharp, pdf-parse, mammoth, word-extractor
+- Frontend: Vanilla JS modular (1.594 linhas), Marked.js, DOMPurify, Prism.js
+- APIs: PubMed, ClinicalTrials.gov, DailyMed (FDA)
+- Segurança: express-rate-limit, helmet, validações robustas
+
+**Métricas:**
+- ~2.700 linhas de código total
+- 10 módulos JavaScript frontend
+- 8 endpoints API
+- 3 integrações com APIs médicas
+- Suporte a 9 tipos de arquivo
 
 ---
 
@@ -222,6 +279,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 | Categoria | Quantidade | Tecnologias Principais |
 |-----------|------------|------------------------|
 | 🏢 **Sistemas de Gestão** | 2 projetos | PHP/MySQL (500+ arquivos), C |
+| 🤖 **IA & Agentes Inteligentes** | 1 projeto | Node.js, OpenAI API, ~2.7k linhas |
 | 💻 **Web Full Stack** | 12+ projetos | HTML, CSS, JavaScript, React, PHP |
 | 🏥 **HealthTech** | 3 projetos | JavaScript, Node.js, Svelte |
 | 🖥️ **Desktop Apps** | 2 projetos | C#, .NET, WPF |
@@ -234,6 +292,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 PHP/MySQL          ████████████████████░  95%
 JavaScript/Node.js ████████████████████░  95%
 HTML/CSS           ████████████████████░  95%
+AI Integration     ██████████████████░░░  90%
 C#/.NET            ██████████████████░░░  85%
 React/Svelte       ████████████████░░░░░  75%
 Python             ███████████████░░░░░░  70%
