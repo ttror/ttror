@@ -15,14 +15,14 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor full stack com forte atuação em **HealthTech**, especializado em criar soluções tecnológicas que fazem a diferença na área da saúde e gestão. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend.
+Sou um desenvolvedor full stack especializado em criar **soluções tecnológicas robustas e inovadoras** para diversos setores. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend.
 
-Atualmente, desenvolvo projetos voltados para **transcrição médica**, **dashboards de psiquiatria** e **sistemas de gestão**, sempre buscando aplicar as melhores práticas e tecnologias mais adequadas para cada solução.
+Atualmente, desenvolvo projetos voltados para **sistemas de gestão empresarial**, **transcrição médica**, **dashboards de psiquiatria** e **automação**, sempre buscando aplicar as melhores práticas e tecnologias mais adequadas para cada solução.
 
 ```javascript
 const ttror = {
     localização: "Brasil 🇧🇷",
-    especialização: "Full Stack Developer & HealthTech Specialist",
+    especialização: "Full Stack Developer & Software Architect",
     
     linguagens: {
         frontend: ["JavaScript", "HTML5", "CSS3", "React", "Svelte"],
@@ -32,22 +32,21 @@ const ttror = {
     },
     
     áreas_atuação: [
-        "HealthTech (Transcrição Médica, Psiquiatria)",
+        "Sistemas de Gestão Empresarial (Imobiliária, ERP)",
         "Desenvolvimento Web Full Stack",
         "Aplicações Desktop (WPF/C#)",
-        "Sistemas de Gestão (Imobiliária, ERP)",
+        "HealthTech (Transcrição Médica, Psiquiatria)",
         "Automação e Ferramentas"
     ],
     
     projetos_destaque: {
+        gestao: ["sistema-gestao-imobiliaria", "PimModulos"],
         healthtech: ["medic-transcribe", "psiquiatria-dashboard"],
         desktop: ["PimWebDesktop", "WpfApp1"],
-        gestao: ["sistema-gestao-imobiliaria", "PimModulos"],
         automacao: ["sistema-alertas-github"]
     },
     
-    atualmente_trabalhando: "Soluções inovadoras para HealthTech e Gestão",
-    fato_curioso: "Adoro transformar café em código que salva vidas! ☕💊"
+    atualmente_trabalhando: "Soluções inovadoras para Gestão e Automação"
 };
 ```
 
@@ -85,11 +84,11 @@ const ttror = {
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### 🏥 Especialização HealthTech
+### 🚀 Especialização em Inovação
 
-![Healthcare](https://img.shields.io/badge/Medical_Transcription-00C7B7?style=for-the-badge&logo=stethoscope&logoColor=white)
-![Mental Health](https://img.shields.io/badge/Psychiatry_Systems-9B59B6?style=for-the-badge&logo=brain&logoColor=white)
-![Dashboard](https://img.shields.io/badge/Health_Dashboards-E74C3C?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Business Management](https://img.shields.io/badge/Business_Management-FF6B6B?style=for-the-badge&logo=building&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Medical_Systems-00C7B7?style=for-the-badge&logo=stethoscope&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-9B59B6?style=for-the-badge&logo=robot&logoColor=white)
 
 </div>
 
@@ -97,11 +96,23 @@ const ttror = {
 
 ## 💼 Projetos & Experiência
 
-### 🏥 HealthTech
+### 🏢 Sistemas de Gestão Empresarial ⭐
 
-Desenvolvimento de soluções tecnológicas para a área da saúde, com foco em **transcrição médica automatizada** e **sistemas de gestão para psiquiatria**. Experiência em criar dashboards intuitivos e ferramentas que auxiliam profissionais de saúde no atendimento e gestão de pacientes.
+Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque para um **sistema de gestão imobiliária** de grande porte com mais de 500 arquivos PHP, arquitetura MVC profissional, geração automática de documentos (DOCX/PDF), sistema financeiro completo, auditoria detalhada e múltiplas integrações.
 
-**Tecnologias:** JavaScript, Node.js, React, Svelte, Python
+**Características do Sistema:**
+- Arquitetura MVC robusta com 500+ arquivos PHP
+- Gestão completa de formulários, documentos e contratos
+- Geração automática de documentos DOCX e PDF
+- Sistema financeiro com cálculos automáticos e validações
+- Upload e gestão de múltiplos anexos organizados
+- Envio automatizado de emails com PHPMailer
+- Sistema de auditoria e logs detalhados
+- Integração com APIs externas (CEP, pagamentos)
+- Painel administrativo completo
+- Segurança avançada (CSRF, rate limiting, validações server/client)
+
+**Tecnologias:** PHP, MySQL, JavaScript, PHPMailer, PHPWord, MVC Architecture
 
 ### 💻 Desenvolvimento Full Stack
 
@@ -109,11 +120,11 @@ Experiência completa em desenvolvimento web, desde o frontend com frameworks mo
 
 **Projetos:** 6+ projetos em JavaScript/Node.js, 6+ projetos em HTML/CSS, sistemas PHP com arquitetura MVC
 
-### 🏢 Sistemas de Gestão
+### 🏥 HealthTech
 
-Desenvolvimento de sistemas completos de gestão empresarial, incluindo **sistema de gestão imobiliária** com mais de 500 arquivos PHP, arquitetura MVC, geração de documentos (DOCX/PDF), sistema financeiro, auditoria e múltiplas integrações.
+Desenvolvimento de soluções tecnológicas para a área da saúde, com foco em **transcrição médica automatizada** e **sistemas de gestão para psiquiatria**. Experiência em criar dashboards intuitivos e ferramentas que auxiliam profissionais de saúde no atendimento e gestão de pacientes.
 
-**Tecnologias:** PHP, MySQL, JavaScript, PHPMailer, PHPWord, MVC Architecture
+**Tecnologias:** JavaScript, Node.js, React, Svelte, Python
 
 ### 🖥️ Aplicações Desktop
 
@@ -146,6 +157,32 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 ### 🔒 Projetos Privados & Profissionais (Selecionados)
 
+### ⭐ **Sistema de Gestão para Imobiliária** `PHP` `MySQL` `JavaScript`
+
+**Projeto Destaque** - Sistema empresarial completo desenvolvido com arquitetura profissional
+
+**Características Principais:**
+- 🏗️ **Arquitetura MVC** com mais de 500 arquivos PHP organizados
+- 📝 **Gestão de Formulários** complexos com validações dinâmicas
+- 📄 **Geração de Documentos** automática (DOCX e PDF)
+- 💰 **Sistema Financeiro** completo com cálculos e validações
+- 📎 **Upload de Múltiplos Anexos** com organização por categoria
+- 📧 **Envio Automatizado de Emails** via PHPMailer
+- 🔍 **Sistema de Auditoria** com logs detalhados de todas as ações
+- 🔐 **Segurança Robusta** (CSRF, rate limiting, validações)
+- 🌐 **Integração com APIs** externas (CEP, etc)
+- 👥 **Gestão de Usuários** com diferentes níveis de permissão
+- 📊 **Painel Administrativo** completo e intuitivo
+
+**Stack Técnico:**
+- Backend: PHP 7.4+ com OOP e MVC
+- Database: MySQL com queries otimizadas
+- Frontend: JavaScript (24 arquivos), HTML5, CSS3
+- Bibliotecas: PHPMailer v6.x, PHPWord (PHPOffice)
+- Segurança: CSRF Protection, Rate Limiting, Input Validation
+
+---
+
 **🏥 medic-transcribe-github** `JavaScript`
 - Sistema de transcrição médica automatizada
 - Processamento de áudio e conversão para texto
@@ -155,18 +192,6 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 - Dashboard completo para gestão de consultório de psiquiatria
 - Visualização de dados e métricas de atendimento
 - Sistema de agendamento e prontuários
-
-**🏢 Sistema de Gestão para Imobiliária** `PHP` `MySQL` `JavaScript`
-- Sistema completo com arquitetura MVC (500+ arquivos PHP)
-- Gestão de formulários, documentos e contratos
-- Geração automática de documentos DOCX e PDF
-- Sistema financeiro com cálculos automáticos
-- Upload e gestão de múltiplos anexos
-- Envio automatizado de emails (PHPMailer)
-- Sistema de auditoria e logs completo
-- Integração com APIs externas (CEP)
-- Painel administrativo robusto
-- Segurança avançada (CSRF, rate limiting, validações)
 
 **🎨 tranquilamentedan** `Svelte`
 - Aplicação web moderna desenvolvida em Svelte
@@ -196,9 +221,9 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 | Categoria | Quantidade | Tecnologias Principais |
 |-----------|------------|------------------------|
-| 🏥 **HealthTech** | 3 projetos | JavaScript, Node.js, Svelte |
+| 🏢 **Sistemas de Gestão** | 2 projetos | PHP/MySQL (500+ arquivos), C |
 | 💻 **Web Full Stack** | 12+ projetos | HTML, CSS, JavaScript, React, PHP |
-| 🏢 **Sistemas de Gestão** | 2 projetos | PHP/MySQL, C |
+| 🏥 **HealthTech** | 3 projetos | JavaScript, Node.js, Svelte |
 | 🖥️ **Desktop Apps** | 2 projetos | C#, .NET, WPF |
 | 🔧 **Automação** | 1 projeto | Python, GitHub API |
 | 📚 **Sistemas (C)** | 3 projetos | C, Estruturas de Dados |
@@ -206,9 +231,9 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 ### 🎯 Expertise
 
 ```text
-JavaScript/Node.js  ████████████████████░  95%
+PHP/MySQL          ████████████████████░  95%
+JavaScript/Node.js ████████████████████░  95%
 HTML/CSS           ████████████████████░  95%
-PHP/MySQL          ████████████████████░  90%
 C#/.NET            ██████████████████░░░  85%
 React/Svelte       ████████████████░░░░░  75%
 Python             ███████████████░░░░░░  70%
