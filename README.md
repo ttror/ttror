@@ -6,10 +6,6 @@
   
   ### 👨‍💻 Desenvolvedor Full Stack | 🏥 HealthTech Specialist | 🎯 Apaixonado por Tecnologia
   
-  <p>
-    <em>Transformando ideias em código e criando soluções inovadoras para saúde e gestão</em>
-  </p>
-  
   [![GitHub followers](https://img.shields.io/github/followers/ttror?style=for-the-badge&logo=github&logoColor=white&labelColor=282a36&color=8be9fd)](https://github.com/ttror)
   [![Profile Views](https://komarev.com/ghpvc/?username=ttror&style=for-the-badge&color=blueviolet)](https://github.com/ttror)
   
@@ -92,24 +88,6 @@ const ttror = {
 ![Healthcare](https://img.shields.io/badge/Medical_Transcription-00C7B7?style=for-the-badge&logo=stethoscope&logoColor=white)
 ![Mental Health](https://img.shields.io/badge/Psychiatry_Systems-9B59B6?style=for-the-badge&logo=brain&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Health_Dashboards-E74C3C?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttror&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8be9fd&icon_color=bd93f9&text_color=f8f8f2"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttror&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8be9fd&text_color=f8f8f2&langs_count=8"/>
-
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ttror&theme=tokyonight&hide_border=true&background=0d1117&stroke=8be9fd&ring=bd93f9&fire=ffb86c&currStreakLabel=8be9fd)](https://github.com/ttror)
 
 </div>
 
@@ -200,43 +178,6 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 ---
 
-## 📈 Gráfico de Atividade
-
-<div align="center">
-  
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ttror&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8be9fd&line=bd93f9&point=ffb86c)](https://github.com/ttror)
-
-</div>
-
----
-
-## 💡 Citação Inspiradora
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Vamos Conectar?
-
-<div align="center">
-  
-  <p>Estou sempre aberto a novos projetos, colaborações e oportunidades, especialmente na área de HealthTech!</p>
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ttror)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttror.2@gmail.com)
-  
-  <p>
-    <em>💬 Interessado em HealthTech, desenvolvimento full stack ou apenas quer trocar uma ideia sobre tecnologia? Sinta-se à vontade para entrar em contato!</em>
-  </p>
-
-</div>
-
----
-
 ## 📊 Estatísticas Detalhadas
 
 <div align="center">
@@ -268,13 +209,5 @@ C                  ██████████████░░░░░░�
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-  
-  <p>
-    <em>⭐ Desenvolvido com ❤️, muito ☕ e dedicação à tecnologia que transforma vidas 💊</em>
-  </p>
-  
-  <p>
-    <sub>🏥 Especializado em HealthTech | 💻 Full Stack Developer | 🚀 Open Source Enthusiast</sub>
-  </p>
 </div>
 
