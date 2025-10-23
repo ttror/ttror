@@ -98,7 +98,7 @@ const ttror = {
 
 ## 💼 Projetos & Experiência
 
-### 🏢 Sistemas de Gestão Empresarial ⭐
+### 🏢 Sistemas de Gestão Empresarial 
 
 Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque para um **sistema de gestão imobiliária** de grande porte com mais de 500 arquivos PHP, arquitetura MVC profissional, geração automática de documentos (DOCX/PDF), sistema financeiro completo, auditoria detalhada e múltiplas integrações.
 
@@ -116,7 +116,7 @@ Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque p
 
 **Tecnologias:** PHP, MySQL, JavaScript, PHPMailer, PHPWord, MVC Architecture
 
-### 🤖 Inteligência Artificial & Agentes Inteligentes ⭐
+### 🤖 Inteligência Artificial & Agentes Inteligentes 
 
 Desenvolvimento de **agentes de IA conversacionais** para aplicações médicas e empresariais, com integração de APIs de IA (OpenAI/Claude), processamento multimodal e pesquisa científica automatizada.
 
@@ -180,7 +180,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 ---
 
-### ⭐ **1. Sistema de Gestão para Imobiliária** `PHP` `MySQL` `JavaScript`
+###  **1. Sistema de Gestão para Imobiliária** `PHP` `MySQL` `JavaScript`
 
 **Projeto Destaque #1** - Sistema empresarial completo desenvolvido com arquitetura profissional
 
@@ -206,7 +206,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 ---
 
-### ⭐ **2. Agente de IA para Psiquiatria** `Node.js` `OpenAI API` `JavaScript`
+###  **2. Agente de IA para Psiquiatria** `Node.js` `OpenAI API` `JavaScript`
 
 **Projeto Destaque #2** - Assistente inteligente com IA para discussões médicas psiquiátricas
 
@@ -221,7 +221,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 - 💬 **Interface Conversacional** moderna com Markdown
 - 🔐 **Segurança Avançada** (rate limiting, sanitização XSS, helmet)
 - 📊 **Sistema de Logs** estruturado com Pino
-- 🎨 **UI/UX Profissional** com typewriter effect e syntax highlighting
+- 🎨 **UI/UX Moderna** com typewriter effect e syntax highlighting
 
 **Stack Técnico:**
 - Backend: Node.js 18+, Express 4.21, Axios
@@ -232,7 +232,6 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 - Segurança: express-rate-limit, helmet, validações robustas
 
 **Métricas:**
-- ~2.700 linhas de código total
 - 10 módulos JavaScript frontend
 - 8 endpoints API
 - 3 integrações com APIs médicas
@@ -245,12 +244,12 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 - Processamento de áudio e conversão para texto
 - Interface intuitiva para profissionais de saúde
 
-**🧠 tranquilamente-psiquiatria-dashboard** `JavaScript`
+**🧠 psiquiatria-dashboard** `JavaScript`
 - Dashboard completo para gestão de consultório de psiquiatria
 - Visualização de dados e métricas de atendimento
 - Sistema de agendamento e prontuários
 
-**🎨 tranquilamentedan** `Svelte`
+**🎨 relatoriosdashboard** `Svelte`
 - Aplicação web moderna desenvolvida em Svelte
 - Interface responsiva e performática
 
@@ -279,7 +278,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 | Categoria | Quantidade | Tecnologias Principais |
 |-----------|------------|------------------------|
 | 🏢 **Sistemas de Gestão** | 2 projetos | PHP/MySQL (500+ arquivos), C |
-| 🤖 **IA & Agentes Inteligentes** | 1 projeto | Node.js, OpenAI API, ~2.7k linhas |
+| 🤖 **IA & Agentes Inteligentes** | 1 projeto | Node.js, OpenAI API,  |
 | 💻 **Web Full Stack** | 12+ projetos | HTML, CSS, JavaScript, React, PHP |
 | 🏥 **HealthTech** | 3 projetos | JavaScript, Node.js, Svelte |
 | 🖥️ **Desktop Apps** | 2 projetos | C#, .NET, WPF |
