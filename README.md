@@ -48,7 +48,7 @@ const ttror = {
         automacao: ["sistema-alertas-github"]
     },
     
-    atualmente_trabalhando: "Soluções inovadoras com IA para Gestão e Saúde"
+
 };
 ```
 
