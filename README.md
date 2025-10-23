@@ -98,7 +98,7 @@ const ttror = {
 
 ### 🏢 Sistemas de Gestão Empresarial ⭐
 
-Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque para um **sistema de gestão imobiliária** de grande porte com mais de 500 arquivos PHP, arquitetura MVC profissional, geração automática de documentos (DOCX/PDF), sistema financeiro completo, auditoria detalhada e múltiplas integrações.
+Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque para um **sistema de gestão imobiliária** de grande porte com mais de 500 arquivos PHP, arquitetura MVC, geração automática de documentos (DOCX/PDF), sistema financeiro completo, auditoria detalhada e múltiplas integrações.
 
 **Características do Sistema:**
 - Arquitetura MVC robusta com 500+ arquivos PHP
