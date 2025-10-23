@@ -181,7 +181,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 ###  **1. Sistema de Gestão para Imobiliária** `PHP` `MySQL` `JavaScript`
 
-**Projeto Destaque #1** - Sistema empresarial completo desenvolvido com arquitetura profissional
+**Projeto Destaque #1** - Sistema de gestão imobiliário
 
 **Características Principais:**
 - 🏗️ **Arquitetura MVC** com mais de 500 arquivos PHP organizados
