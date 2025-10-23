@@ -121,7 +121,6 @@ Desenvolvimento de **sistemas completos de gestão empresarial**, com destaque p
 Desenvolvimento de **agentes de IA conversacionais** para aplicações médicas e empresariais, com integração de APIs de IA (OpenAI/Claude), processamento multimodal e pesquisa científica automatizada.
 
 **Projeto Destaque: Agente de IA para Psiquiatria**
-- Sistema completo com ~2.700 linhas de código
 - Integração com OpenAI API / Claude API
 - Processamento multimodal (texto, voz, PDF, Word, imagens)
 - Streaming de respostas em tempo real (SSE)
@@ -227,7 +226,7 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 - Backend: Node.js 18+, Express 4.21, Axios
 - IA: OpenAI API / Claude API
 - Processamento: Multer, Sharp, pdf-parse, mammoth, word-extractor
-- Frontend: Vanilla JS modular (1.594 linhas), Marked.js, DOMPurify, Prism.js
+- Frontend: Vanilla JS modular, Marked.js, DOMPurify, Prism.js
 - APIs: PubMed, ClinicalTrials.gov, DailyMed (FDA)
 - Segurança: express-rate-limit, helmet, validações robustas
 
