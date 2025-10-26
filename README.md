@@ -1,86 +1,129 @@
-# 👨‍💻 ttror
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=ttror&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-**`Desenvolvedor Full Stack`**
+<div align="center">
+  
+  ### 👨‍💻 Desenvolvedor Full Stack | AI Solutions Architect
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=ttror&style=for-the-badge&color=blueviolet)](https://github.com/ttror)
+  
+</div>
 
-Me chamo ttror e sou um desenvolvedor full stack especializado em criar **soluções tecnológicas robustas**. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend e **inteligência artificial**.
+---
+
+## 🚀 Sobre Mim
+
+Me chamo **ttror** e sou um desenvolvedor full stack especializado em criar **soluções tecnológicas robustas**. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend e **inteligência artificial**.
 
 Atualmente, desenvolvo projetos voltados para **sistemas de gestão empresarial**, **agentes de IA para saúde**, **transcrição médica** e **automação**, sempre buscando aplicar as melhores práticas e tecnologias mais adequadas para cada solução.
 
-[![GitHub followers](https://img.shields.io/github/followers/ttror?label=Seguidores&style=social)](https://github.com/ttror)
-[![GitHub User's stars](https://img.shields.io/github/stars/ttror?label=Total%20de%20estrelas&style=social)](https://github.com/ttror)
-
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Svelte" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg">
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<div>
-  <a href="https://github.com/ttror">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttror&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttror&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttror&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttror&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ---
 
-### 💼 Projetos em Destaque
+## 💼 Projetos em Destaque
 
-#### 🏢 Sistema de Gestão Imobiliária
-Sistema completo de gestão imobiliária com arquitetura MVC, 500+ arquivos PHP, geração automática de documentos DOCX/PDF, sistema financeiro completo e segurança avançada.
+### 🏢 Sistema de Gestão Imobiliária
+Sistema completo de gestão imobiliária com arquitetura MVC, **500+ arquivos PHP**, geração automática de documentos DOCX/PDF, sistema financeiro completo e segurança avançada.
 
 **Stack:** `PHP` `MySQL` `JavaScript` `MVC` `PHPMailer` `PHPWord`
 
+**Características:**
+- 🏗️ Arquitetura MVC robusta
+- 📄 Geração automática de documentos
+- 💰 Sistema financeiro completo
+- 🔐 Segurança avançada (CSRF, rate limiting)
+- 📧 Envio automatizado de emails
+- 🔍 Sistema de auditoria completo
+
 ---
 
-#### 🤖 Agente de IA para Psiquiatria
-Assistente inteligente com integração OpenAI/Claude API, processamento multimodal, transcrição de voz, pesquisa científica integrada (PubMed, ClinicalTrials, DailyMed) e streaming de respostas em tempo real.
+### 🤖 Agente de IA para Psiquiatria
+Assistente inteligente com integração **OpenAI/Claude API**, processamento multimodal, transcrição de voz, pesquisa científica integrada e streaming de respostas em tempo real.
 
 **Stack:** `Node.js` `OpenAI API` `Express` `SSE` `Sharp` `pdf-parse`
 
+**Características:**
+- 🧠 Integração com OpenAI/Claude API
+- 🎙️ Transcrição de voz em tempo real
+- 📄 Processamento multimodal (PDF, Word, imagens)
+- 🔬 Pesquisa científica integrada (PubMed, ClinicalTrials, DailyMed)
+- ⚡ Streaming de respostas (SSE)
+- 📚 Citações automáticas de artigos
+
 ---
 
-#### 🛒 [Sistema ERP Hortifruti](https://github.com/ttror/hotifruti-C-lang)
-Sistema de gestão completo desenvolvido em C com arquitetura modular, PDV, balança, controle de estoque e gestão financeira.
+### 🛒 [Sistema ERP Hortifruti](https://github.com/ttror/hotifruti-C-lang)
+Sistema de gestão completo desenvolvido em **linguagem C** com arquitetura modular, PDV, balança, controle de estoque e gestão financeira.
 
 **Stack:** `C` `PDCurses` `Binary Files` `Modular Architecture`
 
+**Características:**
+- 🏗️ Arquitetura modular (13 módulos)
+- ⚖️ Sistema de balança integrado
+- 💳 PDV completo
+- 📦 Gestão de estoque em tempo real
+- 💰 Módulo financeiro
+
 ---
 
-#### 🖥️ [PimWebDesktop](https://github.com/ttror/PimWebDesktop)
-Aplicação desktop moderna com WPF seguindo o padrão MVVM.
+### 🏥 Sistemas HealthTech
+Desenvolvimento de soluções para a área da saúde, incluindo **transcrição médica automatizada** e **dashboards para psiquiatria**.
+
+**Projetos:**
+- 🎙️ **medic-transcribe** - Sistema de transcrição médica
+- 🧠 **psiquiatria-dashboard** - Dashboard de gestão de consultório
+
+**Stack:** `JavaScript` `Node.js` `React` `Svelte` `Python`
+
+---
+
+### 🖥️ [PimWebDesktop](https://github.com/ttror/PimWebDesktop)
+Aplicação desktop moderna com **WPF** seguindo o padrão **MVVM**.
 
 **Stack:** `C#` `.NET` `WPF` `MVVM`
 
 ---
 
-#### 🌐 [PimWeb2025](https://github.com/ttror/pimweb2025)
+### 🌐 [PimWeb2025](https://github.com/ttror/pimweb2025)
 Aplicação web moderna e responsiva.
 
 **Stack:** `HTML5` `CSS3` `JavaScript`
 
 ---
 
-### 🎯 Áreas de Atuação
+## 🎯 Áreas de Atuação
 
 - 🏢 **Sistemas de Gestão Empresarial** (Imobiliária, ERP)
 - 🤖 **Agentes de IA e Assistentes Inteligentes**
@@ -88,4 +131,34 @@ Aplicação web moderna e responsiva.
 - 🖥️ **Aplicações Desktop** (WPF/C#)
 - 🏥 **HealthTech** (Transcrição Médica, Psiquiatria)
 - 🔧 **Automação e Ferramentas**
+- 📚 **Programação de Sistemas** (C)
+
+---
+
+## 📈 Experiência
+
+| Categoria | Projetos | Tecnologias |
+|-----------|----------|-------------|
+| 🏢 **Enterprise Systems** | 2+ | PHP, MySQL, MVC |
+| 🤖 **AI Solutions** | 2+ | Node.js, OpenAI API |
+| 🖥️ **Desktop Apps** | 2+ | C#, .NET, WPF |
+| 🌐 **Web Development** | 12+ | React, Svelte, JavaScript |
+| 🏥 **HealthTech** | 3+ | JavaScript, Node.js |
+| 🔧 **Systems Programming** | 3+ | C, Data Structures |
+
+---
+
+<div align="center">
+  
+  ### 💡 "Transformando ideias em soluções tecnológicas inovadoras"
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-ttror-181717?style=for-the-badge&logo=github)](https://github.com/ttror)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+</div>
 
