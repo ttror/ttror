@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=ttror&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
@@ -36,7 +37,14 @@ Atualmente, desenvolvo projetos voltados para **sistemas de gestão empresarial*
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server 2022](https://img.shields.io/badge/Microsoft%20SQL%20Server%202022-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -84,7 +92,7 @@ Assistente inteligente com integração **OpenAI/Claude API**, processamento mul
 
 ---
 
-### 🛒 [Sistema ERP Hortifruti](https://github.com/ttror/hotifruti-C-lang)
+### 🛒 Sistema ERP Hortifruti
 Sistema de gestão completo desenvolvido em **linguagem C** com arquitetura modular, PDV, balança, controle de estoque e gestão financeira.
 
 **Stack:** `C` `PDCurses` `Binary Files` `Modular Architecture`
@@ -109,14 +117,14 @@ Desenvolvimento de soluções para a área da saúde, incluindo **transcrição 
 
 ---
 
-### 🖥️ [PimWebDesktop](https://github.com/ttror/PimWebDesktop)
+### 🖥️ PimWebDesktop
 Aplicação desktop moderna com **WPF** seguindo o padrão **MVVM**.
 
 **Stack:** `C#` `.NET` `WPF` `MVVM`
 
 ---
 
-### 🌐 [PimWeb2025](https://github.com/ttror/pimweb2025)
+### 🌐 PimWeb2025
 Aplicação web moderna e responsiva.
 
 **Stack:** `HTML5` `CSS3` `JavaScript`
@@ -161,4 +169,3 @@ Aplicação web moderna e responsiva.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
 </div>
-
