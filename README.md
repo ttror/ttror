@@ -1,92 +1,287 @@
 <div align="center">
 
-# 👋 Olá, sou o ttror
+# 👨‍💻 ttror
 
-**Desenvolvedor Full Stack** | **AI Solutions Architect**
+### Full Stack Developer | AI Solutions Architect | Systems Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-ttror-181717?style=flat&logo=github)](https://github.com/ttror)
-[![Profile Views](https://komarev.com/ghpvc/?username=ttror&style=flat&color=blue)](https://github.com/ttror)
+[![GitHub followers](https://img.shields.io/github/followers/ttror?style=social)](https://github.com/ttror)
+[![Profile Views](https://komarev.com/ghpvc/?username=ttror&style=flat-square&color=blue)](https://github.com/ttror)
 
 </div>
 
 ---
 
-## 🚀 Sobre
+## 🎯 About Me
 
-Desenvolvedor full stack especializado em criar **soluções tecnológicas robustas**. Experiência em desenvolvimento web, desktop, sistemas de gestão empresarial e integração de inteligência artificial.
+Desenvolvedor full stack com expertise em **arquiteturas escaláveis**, **integração de IA** e **sistemas de gestão empresarial**. Especializado em transformar requisitos complexos em soluções tecnológicas robustas e eficientes.
 
-```javascript
-const perfil = {
-  localização: "Brasil 🇧🇷",
-  foco: ["Sistemas de Gestão", "IA & Automação", "HealthTech"],
-  stack: {
-    frontend: ["JavaScript", "React", "Svelte", "HTML/CSS"],
-    backend: ["Node.js", "PHP", "Python"],
-    desktop: ["C#", ".NET", "WPF"],
-    sistemas: ["C"]
-  }
+Com experiência em projetos de larga escala, desde sistemas de gestão com 500+ arquivos até aplicações desktop e integrações com APIs de inteligência artificial, busco sempre aplicar as melhores práticas de desenvolvimento e arquitetura de software.
+
+```typescript
+const developer = {
+  code: ["JavaScript", "PHP", "C#", "Python", "C"],
+  architecture: ["MVC", "Microservices", "Event-Driven", "Modular"],
+  technologies: {
+    frontend: ["React", "Svelte", "JavaScript", "HTML5", "CSS3"],
+    backend: ["Node.js", "PHP", "Express", ".NET"],
+    databases: ["MySQL", "PDO"],
+    ai: ["OpenAI API", "Claude API", "NLP"],
+    desktop: ["WPF", "C#", ".NET Framework"],
+    systems: ["C", "Data Structures", "PDCurses"]
+  },
+  currentFocus: "Building intelligent systems with AI integration"
 };
 ```
 
 ---
 
-## 💼 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 🏢 Sistema de Gestão Imobiliária
-**Stack:** PHP • MySQL • JavaScript  
-Sistema completo de gestão com arquitetura MVC, 500+ arquivos, geração automática de documentos (DOCX/PDF), sistema financeiro, auditoria e integrações com APIs externas.
+> **Enterprise-grade real estate management system**
+
+Sistema completo de gestão imobiliária desenvolvido com arquitetura MVC robusta, processamento de documentos automatizado e sistema financeiro integrado.
+
+**Stack:** `PHP 7.4+` `MySQL` `JavaScript` `MVC` `PSR-4`
+
+**Highlights:**
+- 🏗️ **500+ arquivos PHP** organizados em arquitetura MVC
+- 📄 **Geração automática de documentos** DOCX e PDF
+- 💰 **Sistema financeiro completo** com validações e cálculos
+- 🔐 **Segurança avançada** (CSRF, Rate Limiting, Auditoria)
+- 📧 **Sistema de notificações** via email (PHPMailer)
+- 📎 **Gestão de anexos** com upload múltiplo e organização
+- 🧪 **Testes automatizados** com PHPUnit
+- 📊 **Dashboard administrativo** com métricas em tempo real
+
+**Key Technologies:** PHPMailer, PHPOffice/PHPWord, Composer, PSR-4 Autoloading
+
+---
 
 ### 🤖 Agente de IA para Psiquiatria
-**Stack:** Node.js • OpenAI API • Express  
-Assistente inteligente com processamento multimodal, transcrição de voz, pesquisa científica integrada (PubMed, ClinicalTrials, DailyMed) e streaming de respostas em tempo real.
+> **AI-powered medical assistant with multimodal processing**
+
+Assistente inteligente especializado em discussões médicas psiquiátricas, com capacidade de processamento multimodal e integração com bases de dados científicas.
+
+**Stack:** `Node.js 18+` `OpenAI API` `Express` `SSE`
+
+**Highlights:**
+- 🧠 **Integração com OpenAI/Claude** para conversação avançada
+- 🎙️ **Transcrição de voz** com Web Audio API e visualização em tempo real
+- 📄 **Processamento multimodal** (PDF, Word, imagens, texto)
+- 🔬 **Pesquisa científica integrada** (PubMed, ClinicalTrials, DailyMed)
+- ⚡ **Streaming de respostas** em tempo real com Server-Sent Events
+- 📚 **Citações automáticas** de artigos científicos
+- 🖼️ **Análise de imagens** com processamento via Sharp
+- 🔐 **Segurança avançada** (rate limiting, sanitização XSS, helmet)
+
+**Key Technologies:** OpenAI API, Multer, Sharp, pdf-parse, mammoth, Prism.js
+
+---
 
 ### 🛒 [Sistema ERP Hortifruti](https://github.com/ttror/hotifruti-C-lang)
-**Stack:** C • PDCurses  
-Sistema de gestão completo desenvolvido em C com arquitetura modular, PDV, balança, controle de estoque e gestão financeira.
+> **Modular ERP system built in C for retail management**
+
+Sistema de gestão completo desenvolvido em linguagem C com arquitetura modular, incluindo PDV, balança, controle de estoque e gestão financeira.
+
+**Stack:** `C` `PDCurses` `Binary Files` `Modular Architecture`
+
+**Highlights:**
+- 🏗️ **Arquitetura modular** com separação clara de responsabilidades
+- ⚖️ **Sistema de balança** integrado com consulta de estoque
+- 💳 **PDV completo** com carrinho e finalização de vendas
+- 📦 **Gestão de estoque** em tempo real
+- 👥 **Gestão de usuários** (clientes, funcionários, fornecedores)
+- 💰 **Módulo financeiro** com controle de contas
+- 🗄️ **Banco de dados binário** (.dat e .idx)
+- 🎨 **Interface em console** com PDCurses
+
+**Architecture:** 13 módulos C, 13 headers, estrutura src/include organizada
+
+---
+
+### 🏥 Sistema de Transcrição Médica
+> **Automated medical transcription system**
+
+Sistema especializado em transcrição e processamento de áudio médico com interface intuitiva para profissionais de saúde.
+
+**Stack:** `JavaScript` `Web Audio API` `Speech Recognition`
+
+**Highlights:**
+- 🎙️ Processamento de áudio em tempo real
+- 📝 Conversão automática de voz para texto
+- 🏥 Interface otimizada para ambiente médico
+- 📊 Dashboard de transcrições
+
+---
+
+### 🧠 Dashboard Psiquiatria
+> **Comprehensive psychiatric practice management**
+
+Dashboard completo para gestão de consultório de psiquiatria com visualização de dados e sistema de agendamento.
+
+**Stack:** `JavaScript` `Data Visualization` `Dashboard`
+
+**Highlights:**
+- 📊 Visualização de métricas de atendimento
+- 📅 Sistema de agendamento integrado
+- 📋 Gestão de prontuários
+- 📈 Relatórios e análises
+
+---
 
 ### 🖥️ [PimWebDesktop](https://github.com/ttror/PimWebDesktop)
-**Stack:** C# • WPF  
-Aplicação desktop moderna com interface WPF e padrão MVVM.
+> **Modern desktop application with WPF**
+
+Aplicação desktop desenvolvida com WPF seguindo o padrão MVVM, com interface moderna e responsiva.
+
+**Stack:** `C#` `.NET` `WPF` `MVVM`
+
+---
 
 ### 🌐 [PimWeb2025](https://github.com/ttror/pimweb2025)
-**Stack:** HTML • CSS • JavaScript  
-Aplicação web responsiva e moderna.
+> **Responsive web application**
+
+Aplicação web moderna e responsiva com foco em performance e experiência do usuário.
+
+**Stack:** `HTML5` `CSS3` `JavaScript`
 
 ---
 
-## 🛠️ Tecnologias
+## 💻 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & ML
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ttror&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ttror&layout=compact&theme=default&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 🎯 Expertise Areas
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttror&layout=compact&theme=default&hide_border=true)
+### 🏗️ Software Architecture
+- MVC & Layered Architecture
+- Microservices Design
+- Modular Systems
+- Design Patterns
+- PSR Standards
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Integration
+- OpenAI API Integration
+- Natural Language Processing
+- Multimodal Processing
+- Streaming Responses
+- AI-Powered Assistants
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Enterprise Solutions
+- ERP Systems
+- Management Systems
+- Financial Modules
+- Document Generation
+- Audit & Logging
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 HealthTech
+- Medical Transcription
+- Psychiatric Dashboards
+- Patient Management
+- Scientific Research Integration
+- HIPAA Compliance Awareness
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Experience Highlights
+
+| Category | Projects | Key Technologies |
+|----------|----------|------------------|
+| 🏢 **Enterprise Systems** | 2+ | PHP, MySQL, MVC, 500+ files |
+| 🤖 **AI Solutions** | 2+ | Node.js, OpenAI API, NLP |
+| 🖥️ **Desktop Apps** | 2+ | C#, .NET, WPF, MVVM |
+| 🌐 **Web Development** | 12+ | React, Svelte, JavaScript, PHP |
+| 🏥 **HealthTech** | 3+ | JavaScript, Node.js, APIs |
+| 🔧 **Systems Programming** | 3+ | C, Data Structures, Algorithms |
+
+---
+
+## 🌟 What I Bring
+
+```javascript
+const value = {
+  problemSolving: "Complex business requirements → Elegant technical solutions",
+  codeQuality: "Clean code, SOLID principles, comprehensive documentation",
+  architecture: "Scalable, maintainable, and testable systems",
+  innovation: "AI integration, automation, modern tech stack",
+  delivery: "Production-ready code with testing and security best practices"
+};
+```
 
 ---
 
 <div align="center">
 
-**💡 Transformando ideias em soluções tecnológicas**
+### 💡 "Building the future, one commit at a time"
+
+[![GitHub](https://img.shields.io/badge/-ttror-181717?style=flat-square&logo=github)](https://github.com/ttror)
+
+---
+
+**⭐ From [ttror](https://github.com/ttror)**
 
 </div>
 
