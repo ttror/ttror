@@ -41,14 +41,14 @@ const ttror = {
     ],
     
     projetos_destaque: {
-        gestao: ["sistema-gestao-imobiliaria", "PimModulos"],
+        gestao: ["sistema-gestao-imobiliaria", "hortifruti-C-lang"],
         ia: ["agente-ia-psiquiatria"],
         healthtech: ["medic-transcribe", "psiquiatria-dashboard"],
         desktop: ["PimWebDesktop", "WpfApp1"],
         automacao: ["sistema-alertas-github"]
     },
     
-
+    status: "🚀 Desenvolvendo soluções inovadoras"
 };
 ```
 
@@ -160,7 +160,7 @@ Criação de ferramentas de automação e scripts para otimizar workflows de des
 
 ### 📚 Programação de Sistemas
 
-Conhecimento sólido em programação de baixo nível com linguagem C, desenvolvido através de projetos acadêmicos e sistemas de gestão (como sistema Hortifruti).
+Conhecimento sólido em programação de baixo nível com linguagem C, desenvolvido através de projetos acadêmicos e sistemas de gestão (como sistema Hortifruti ERP).
 
 **Projetos:** 3+ projetos em C
 
@@ -170,7 +170,9 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 <div align="center">
 
+[![hortifruti-C-lang](https://github-readme-stats.vercel.app/api/pin/?username=ttror&repo=hotifruti-C-lang&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8be9fd&icon_color=bd93f9&text_color=f8f8f2)](https://github.com/ttror/hotifruti-C-lang)
 [![PimWebDesktop](https://github-readme-stats.vercel.app/api/pin/?username=ttror&repo=PimWebDesktop&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8be9fd&icon_color=bd93f9&text_color=f8f8f2)](https://github.com/ttror/PimWebDesktop)
+
 [![pimweb2025](https://github-readme-stats.vercel.app/api/pin/?username=ttror&repo=pimweb2025&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8be9fd&icon_color=bd93f9&text_color=f8f8f2)](https://github.com/ttror/pimweb2025)
 
 </div>
@@ -238,6 +240,64 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 ---
 
+###  **3. Sistema ERP Hortifruti** `C` `PDCurses` `Arquitetura Modular`
+
+[![Repositório](https://img.shields.io/badge/GitHub-hortifruti--C--lang-8be9fd?style=for-the-badge&logo=github)](https://github.com/ttror/hotifruti-C-lang)
+![Versão](https://img.shields.io/badge/versão-1.5.0%20Beta-blue?style=for-the-badge)
+![Linguagem](https://img.shields.io/badge/linguagem-C-00599C?style=for-the-badge&logo=c)
+
+**Projeto Destaque #3** - Sistema completo de gestão (ERP) para hortifruti desenvolvido em C puro
+
+**Características Principais:**
+- 🏗️ **Arquitetura Modular** com separação clara de responsabilidades (src/core, src/modules)
+- 💻 **Interface Console** moderna com PDCurses e cores
+- 💾 **Banco de Dados Binário** (.dat e .idx) para persistência
+- 🔐 **Sistema de Autenticação** com controle de acesso
+- 🛒 **PDV Completo** com carrinho de compras
+- ⚖️ **Módulo Balança** independente para pesagem
+- 📊 **Gestão Financeira** com relatórios e fluxo de caixa
+- 👥 **Cadastro de Usuários** (clientes, funcionários, fornecedores)
+- 📦 **Controle de Estoque** com produtos e validade
+- 🔨 **Build Automatizado** com Makefile e scripts
+- 📝 **Documentação Completa** com estrutura modular
+
+**Módulos do Sistema:**
+- Core: main, login, link (funções auxiliares)
+- Modules: produto, vendas, carrinho, cliente, funcionário, fornecedor, financeiro, contas, pdv
+- Balança: sistema independente de pesagem
+
+**Stack Técnico:**
+- Linguagem: C (ISO C99)
+- Interface: PDCurses (console colorido)
+- Bibliotecas: Zint (códigos de barras), fmt (formatação)
+- Build: Makefile, scripts bash/bat
+- Arquitetura: Modular (11 módulos)
+- Banco de Dados: Arquivos binários (.dat) com índices (.idx)
+
+**Estrutura Modularizada:**
+```
+hortifruti/
+├── src/              # Código-fonte
+│   ├── core/         # Núcleo do sistema
+│   └── modules/      # Módulos de negócio
+├── include/          # Headers
+│   ├── core/
+│   └── modules/
+├── build/            # Compilados
+├── data/             # Banco de dados
+├── docs/             # Documentação
+└── scripts/          # Scripts de build
+```
+
+**Métricas:**
+- 13 arquivos .c e 13 arquivos .h
+- 11 módulos independentes
+- 4.342+ linhas de código
+- 2 executáveis (PimModulos e balanca)
+- Suporte a produtos a granel e código de barras
+
+---
+
 **🏥 medic-transcribe-github** `JavaScript`
 - Sistema de transcrição médica automatizada
 - Processamento de áudio e conversão para texto
@@ -261,11 +321,6 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 - Projeto acadêmico (Projeto Pim)
 - Interface moderna com MVVM pattern
 
-**📦 PimModulos** `C`
-- Sistema de gestão Hortifruti desenvolvido em C
-- Gerenciamento de estoque e vendas
-- Programação estruturada e eficiente
-
 ---
 
 ## 📊 Estatísticas Detalhadas
@@ -276,13 +331,13 @@ Conhecimento sólido em programação de baixo nível com linguagem C, desenvolv
 
 | Categoria | Quantidade | Tecnologias Principais |
 |-----------|------------|------------------------|
-| 🏢 **Sistemas de Gestão** | 2 projetos | PHP/MySQL (500+ arquivos), C |
-| 🤖 **IA & Agentes Inteligentes** | 1 projeto | Node.js, OpenAI API,  |
+| 🏢 **Sistemas de Gestão** | 3 projetos | PHP/MySQL (500+ arquivos), C (ERP) |
+| 🤖 **IA & Agentes Inteligentes** | 1 projeto | Node.js, OpenAI API |
 | 💻 **Web Full Stack** | 12+ projetos | HTML, CSS, JavaScript, React, PHP |
 | 🏥 **HealthTech** | 3 projetos | JavaScript, Node.js, Svelte |
 | 🖥️ **Desktop Apps** | 2 projetos | C#, .NET, WPF |
 | 🔧 **Automação** | 1 projeto | Python, GitHub API |
-| 📚 **Sistemas (C)** | 3 projetos | C, Estruturas de Dados |
+| 📚 **Sistemas (C)** | 3 projetos | C, Estruturas de Dados, ERP |
 
 ### 🎯 Expertise
 
@@ -294,9 +349,25 @@ AI Integration     ██████████████████░░�
 C#/.NET            ██████████████████░░░  85%
 React/Svelte       ████████████████░░░░░  75%
 Python             ███████████████░░░░░░  70%
-C                  ██████████████░░░░░░░  65%
+C                  ███████████████░░░░░░  70%
 ```
 
+### 🔥 Atividade Recente
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ttror&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8be9fd&line=bd93f9&point=f8f8f2)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💬 Entre em Contato
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-ttror-181717?style=for-the-badge&logo=github)](https://github.com/ttror)
+  
+  **"Transformando ideias em soluções tecnológicas inovadoras"**
+  
 </div>
 
 ---
