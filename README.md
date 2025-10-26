@@ -92,7 +92,7 @@ Assistente inteligente com integração **OpenAI/Claude API**, processamento mul
 
 ---
 
-### 🛒 Sistema ERP Hortifruti
+### 🛒 [Sistema ERP Hortifruti](https://github.com/ttror/hotifruti-C-lang)
 Sistema de gestão completo desenvolvido em **linguagem C** com arquitetura modular, PDV, balança, controle de estoque e gestão financeira.
 
 **Stack:** `C` `PDCurses` `Binary Files` `Modular Architecture`
@@ -117,7 +117,7 @@ Desenvolvimento de soluções para a área da saúde, incluindo **transcrição 
 
 ---
 
-### 🖥️ PimWebDesktop
+### 🖥️ [PimWebDesktop](https://github.com/ttror/PimWebDesktop)
 Aplicação desktop moderna com **WPF** seguindo o padrão **MVVM**.
 
 **Stack:** `C#` `.NET` `WPF` `MVVM`
