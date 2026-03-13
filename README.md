@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre Mim
 
-Me chamo **ttror** e sou um desenvolvedor full stack especializado em criar **soluções tecnológicas robustas**. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend e **inteligência artificial**.
+Me chamo **Augusto Cesar** e sou um desenvolvedor full stack especializado em criar **soluções tecnológicas robustas**. Com experiência em desenvolvimento web, desktop e sistemas de automação, trabalho com um stack diversificado que abrange desde linguagens de baixo nível até frameworks modernos de frontend e **inteligência artificial**.
 
 Atualmente, desenvolvo projetos voltados para **sistemas de gestão empresarial**, **agentes de IA para saúde**, **transcrição médica** e **automação**, sempre buscando aplicar as melhores práticas e tecnologias mais adequadas para cada solução.
 
